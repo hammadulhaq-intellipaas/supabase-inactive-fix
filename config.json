@@ -1,0 +1,14 @@
+[
+  {
+    "name": "KohpaCMS",
+    "supabase_url": "https://azkpobsvuyexyxrczpog.supabase.co",
+    "supabase_key_env": "KOHPA_CMS_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "KohpaLeads",
+    "supabase_url": "https://kzldmsyjcbywkjftqdxp.supabase.co",
+    "supabase_key_env": "KOHPA_LEADS_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
+  }
+]
