@@ -7,7 +7,7 @@
   },
   {
     "name": "KohpaLeads",
-    "supabase_url": "https://kzldmsyjcbywkjftqdxp.supabase.co",
+    "supabase_url": "https://kernkissytpbrtqabjxg.supabase.co",
     "supabase_key_env": "KOHPA_LEADS_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
   }
