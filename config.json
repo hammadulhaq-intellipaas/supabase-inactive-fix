@@ -10,5 +10,11 @@
     "supabase_url": "https://kfxxonssngncdmlplxsa.supabase.co",
     "supabase_key_env": "KOHPA_LEADS_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "IntelliPaaS",
+    "supabase_url": "https://vekevqnwyczpnqntdkkv.supabase.co",
+    "supabase_key_env": "INTELLIPAAS_LEADS_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
   }
 ]
