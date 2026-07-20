@@ -16,5 +16,11 @@
     "supabase_url": "https://vekevqnwyczpnqntdkkv.supabase.co",
     "supabase_key_env": "INTELLIPAAS_LEADS_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "AI Trust Index",
+    "supabase_url": "https://acxqtsggcbfgcrhiyqef.supabase.co",
+    "supabase_key_env": "AITRUSTINDEX_LEADS_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
   }
 ]
