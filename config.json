@@ -22,5 +22,23 @@
     "supabase_url": "https://acxqtsggcbfgcrhiyqef.supabase.co",
     "supabase_key_env": "AITRUSTINDEX_LEADS_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "WINergy",
+    "supabase_url": "https://zxqgjyrjtihiuqlkvhfq.supabase.co",
+    "supabase_key_env": "WINERGY_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Agent-v",
+    "supabase_url": "https://inrwujnvwvwvjdoencpo.supabase.co",
+    "supabase_key_env": "AGENTV_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Web-studio",
+    "supabase_url": "https://kqpyoxrfyvbbqoslyqwy.supabase.co",
+    "supabase_key_env": "WEBSTUDIO_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
   }
 ]
