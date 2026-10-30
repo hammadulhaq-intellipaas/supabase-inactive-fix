@@ -35,10 +35,16 @@
     "supabase_key_env": "WEBSTUDIO_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
   },
-   {
+  {
     "name": "Rooma",
     "supabase_url": "https://xyhmcrwigyakboepraie.supabase.co",
     "supabase_key_env": "ROOMA_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Bloom Website",
+    "supabase_url": "https://ezctotrqauqeqyswusqu.supabase.co",
+    "supabase_key_env": "BLOOM_WEBSITE_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
   }
 ]
