@@ -64,5 +64,11 @@
     "supabase_url": "https://ikwryvsnulamukdspafv.supabase.co",
     "supabase_key_env": "IPAAS_ATLAS_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "Agentic Website",
+    "supabase_url": "https://gkfyxbthgjqhsemahfeo.supabase.co",
+    "supabase_key_env": "AGENTIC_WEBSITE_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
   }
 ]
