@@ -46,5 +46,11 @@
     "supabase_url": "https://ezctotrqauqeqyswusqu.supabase.co",
     "supabase_key_env": "BLOOM_WEBSITE_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "Dennis Artz Website",
+    "supabase_url": "https://bbaenoigcxctgubhsosl.supabase.co",
+    "supabase_key_env": "DENNIS_ARTZ_WEBSITE_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
   }
 ]
