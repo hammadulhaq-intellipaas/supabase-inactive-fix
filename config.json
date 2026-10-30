@@ -58,5 +58,11 @@
     "supabase_url": "https://qlyedtllwqukuosodzit.supabase.co",
     "supabase_key_env": "FUNCTIONAL_MED_WEBSITE_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "iPaaS Atlas",
+    "supabase_url": "https://ikwryvsnulamukdspafv.supabase.co",
+    "supabase_key_env": "IPAAS_ATLAS_SUPABASE_SERVICE_ROLE_KEY",
+    "table_name": "keep-alive"
   }
 ]
