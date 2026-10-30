@@ -52,7 +52,7 @@
     "supabase_url": "https://bbaenoigcxctgubhsosl.supabase.co",
     "supabase_key_env": "DENNIS_ARTZ_WEBSITE_SUPABASE_SERVICE_ROLE_KEY",
     "table_name": "keep-alive"
-  }
+  },
   {
     "name": "Functional Med Website",
     "supabase_url": "https://qlyedtllwqukuosodzit.supabase.co",
